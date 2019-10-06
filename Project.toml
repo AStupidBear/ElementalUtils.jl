@@ -1,0 +1,13 @@
+name = "ElementalUtils"
+uuid = "74ee0d40-e6c3-11e9-0115-cfee1eade08a"
+authors = ["Yao Lu <luyaocns@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Elemental = "902c3f28-d1ec-5e7e-8399-a24c3845ee38"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
