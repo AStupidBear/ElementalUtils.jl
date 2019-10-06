@@ -1,4 +1,4 @@
-# Extensions to Elemental
+# Extensions to Elemental.jl
 
 ## Installation
 
@@ -7,7 +7,7 @@ julia>]
 pkg> add https://github.com/AStupidBear/ElementalUtils.jl.git
 ```
 
-You may find this [script](https://gist.github.com/AStupidBear/2e1d0b21c1516b8d3624ded22f445dc3) useful if you encounter errors when building Elemental.
+You may find this [script](https://gist.github.com/AStupidBear/2e1d0b21c1516b8d3624ded22f445dc3) useful if you encounter errors when building [Elemental](https://github.com/elemental/Elemental).
 
 
 ## Usage
